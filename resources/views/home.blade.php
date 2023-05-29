@@ -36,7 +36,7 @@
                     <a href="post.html"><h2 class="post-title">I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.</h2></a>
                     <p class="post-meta">
                         Posted by
-                        <a href="#!">Start Bootstrap</a>
+                        <a href="#!">Start Laravel</a>
                         on September 18, 2023
                     </p>
                 </div>
